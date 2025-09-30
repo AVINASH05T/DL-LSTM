@@ -1,5 +1,6 @@
 # DL- Developing a Deep Learning Model for NER using LSTM
-
+### NAME : AVINASH T
+### REG NO : 212223230026
 ## AIM
 To develop an LSTM-based model for recognizing the named entities in the text.
 
